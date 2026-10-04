@@ -17,7 +17,7 @@ Local councils decide budgets, welfare, and safety for millions of people, but t
 
 Source traceability & provenance-first LLM pipelines · large-scale document processing · multi-agent verification (the generator never verifies its own output) · entity/issue threading across years of records
 
-Jalhana Home : https://jalhana.com
-Jalhana Assembly : https://jalhana.com/assembly
-Blog : https://jalhana.com/blog/
-Thread : https://www.threads.com/@lime.jung
+- Jalhana Home : https://jalhana.com
+- Jalhana Assembly : https://jalhana.com/assembly
+- Blog : https://jalhana.com/blog/
+- Thread : https://www.threads.com/@lime.jung
