@@ -21,3 +21,7 @@ Source traceability & provenance-first LLM pipelines · large-scale document pro
 - Jalhana Assembly : https://jalhana.com/assembly
 - Blog : https://jalhana.com/blog/
 - Thread : https://www.threads.com/@lime.jung
+
+## Featured
+
+- HackerNoon (2026-11-06) — [What I Learned Mapping Public Record Links Across 56 Korean Local Councils](https://hackernoon.com/what-i-learned-mapping-public-record-links-across-56-korean-local-councils)
