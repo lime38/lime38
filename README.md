@@ -6,7 +6,7 @@ Local councils decide budgets, welfare, and safety for millions of people, but t
 
 > **Every AI-generated sentence traces back to the original transcript** — document ID + utterance position + verbatim quote. If it can't be traced, it isn't published.
 
-## What's running today(26-11-06)
+## What's running today(26-11-09)
 
 - 📚 **264,000+ transcripts** collected from **237 local councils**
 - 📰 **12,600+ issue briefs** published, **24 councils live**
