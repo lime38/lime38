@@ -6,11 +6,11 @@ Local councils decide budgets, welfare, and safety for millions of people, but t
 
 > **Every AI-generated sentence traces back to the original transcript** — document ID + utterance position + verbatim quote. If it can't be traced, it isn't published.
 
-## What's running today(26-11-20)
+## What's running today(26-11-22)
 
-- 📚 **267,000+ transcripts** collected from **238 local councils**
-- 📰 **13,000+ issue briefs** published, **26 councils live**
-- 🔗 **9,800+ tracked promises** by officials — each with its follow-up status and source anchor
+- 📚 **268,000+ transcripts** collected from **238 local councils**
+- 📰 **13,100+ issue briefs** published, **27 councils live**
+- 🔗 **10,000+ tracked promises** by officials — each with its follow-up status and source anchor
 - 🧭 An editor, not a judge: issues are curated by impact on people's lives, never scored or ranked
 
 ## Themes I work on
